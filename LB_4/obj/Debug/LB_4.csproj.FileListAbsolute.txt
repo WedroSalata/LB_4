@@ -1,0 +1,10 @@
+D:\УчёбЫ\ООП\Програмы\LB_4\bin\Debug\LB_3.exe.config
+D:\УчёбЫ\ООП\Програмы\LB_4\bin\Debug\LB_3.exe
+D:\УчёбЫ\ООП\Програмы\LB_4\bin\Debug\LB_3.pdb
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_4.csproj.AssemblyReference.cache
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_4.Form1.resources
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_3.Properties.Resources.resources
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_4.csproj.GenerateResource.cache
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_4.csproj.CoreCompileInputs.cache
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_3.exe
+D:\УчёбЫ\ООП\Програмы\LB_4\obj\Debug\LB_3.pdb
